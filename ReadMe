@@ -15,7 +15,7 @@ Extruder : Cloned Titan Extruder + stock motor
 Klipper: Raspberry Pi 4B
 Spool: Holder down
 Camera: Playstatio Eye
-
+Filament Run out sensor: Generic
 Removed XY Endstops for sensorless homing
 
 =======
@@ -35,5 +35,5 @@ Extruder : Cloned BMG Extruder + stock motor
 Klipper: Raspberry Pi 4B
 Spool Holder: top
 Camera: Playstatio Eye
-
+Filament Run out sensor: Triangle Labs
 Removed XY Endstops for sensorless homing
