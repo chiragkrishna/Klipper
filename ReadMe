@@ -17,6 +17,7 @@ Spool: Holder down
 Camera: Playstatio Eye
 Filament Run out sensor: Generic
 Removed XY Endstops for sensorless homing
+BantaMount-Fang-40mm
 
 =======
 Ender 5 Mods
@@ -37,3 +38,4 @@ Spool Holder: top
 Camera: Playstatio Eye
 Filament Run out sensor: Triangle Labs
 Removed XY Endstops for sensorless homing
+BantaMount-Fang-40mm
