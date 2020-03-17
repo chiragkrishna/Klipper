@@ -13,6 +13,8 @@ Hotend : Cloned J-Head V6 12V
 bed : Stock
 Extruder : Cloned Titan Extruder + stock motor
 Klipper: Raspberry Pi 4B
+Spool: Holder down
+Camera: Playstatio Eye
 
 Removed XY Endstops for sensorless homing
 
@@ -31,5 +33,7 @@ Hotend : Cloned J-Head V6 12V
 bed : Stock
 Extruder : Cloned BMG Extruder + stock motor
 Klipper: Raspberry Pi 4B
+Spool Holder: top
+Camera: Playstatio Eye
 
 Removed XY Endstops for sensorless homing
