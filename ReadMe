@@ -18,6 +18,7 @@ Camera: Playstatio Eye
 Filament Run out sensor: Generic
 Removed XY Endstops for sensorless homing
 stepper motor dampers: X Direction Inverted
+BantaMount-Fang-40mm
 
 =======
 Ender 5 Mods
@@ -39,3 +40,4 @@ Camera: Playstatio Eye
 Filament Run out sensor: Triangle Labs
 Removed XY Endstops for sensorless homing
 stepper motor dampers
+BantaMount-Fang-40mm
