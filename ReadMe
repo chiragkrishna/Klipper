@@ -13,12 +13,14 @@ Part Cooling Fan : NF-A4X20 12V
 bed : Stock
 Extruder : Cloned Titan Extruder + stock motor
 Klipper: Raspberry Pi 4B
-Spool: Holder down
+Spool: Holder Top
 Camera: Playstatio Eye
 Filament Run out sensor: Generic
 Removed XY Endstops for sensorless homing
 stepper motor dampers: X Direction Inverted
-BantaMount-Fang-40mm
+Hero Me Gen 3-Dual 5015
+Setup: Direct Drive
+X & Y Belt Tensioner Mods
 
 =======
 Ender 5 Mods
@@ -40,4 +42,7 @@ Camera: Playstatio Eye
 Filament Run out sensor: Triangle Labs
 Removed XY Endstops for sensorless homing
 stepper motor dampers
-BantaMount-Fang-40mm
+Hero Me Gen 3-Dual 5015
+Setup: Direct Drive
+X carriage hieght mod: X Direction Inverted
+X & Y Belt Tensioner Mods
